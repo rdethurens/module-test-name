@@ -1,1 +1,1 @@
-import {PrimitiveExtends} from "./PrimitiveExtends";
+export {PrimitiveExtends} from "./PrimitiveExtends";
